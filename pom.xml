@@ -27,7 +27,7 @@
 
     <groupId>com.stormpath.shiro</groupId>
     <artifactId>stormpath-shiro-root</artifactId>
-    <version>0.7.0-dr1</version>
+    <version>0.7.0-dr2-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Stormpath Shiro</name>
@@ -55,7 +55,7 @@
         <connection>scm:git:git@github.com:digitalreasoning/stormpath-shiro.git</connection>
         <developerConnection>scm:git:git@github.com:digitalreasoning/stormpath-shiro.git</developerConnection>
         <url>http://github.com/digitalreasoning/stormpath-shiro</url>
-        <tag>0.7.0-dr1</tag>
+        <tag>HEAD</tag>
     </scm>
     <issueManagement>
         <system>GitHub</system>
