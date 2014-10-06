@@ -376,4 +376,10 @@
         </profile>
     </profiles>
 
+    <distributionManagement>
+        <repository>
+            <id>drsi-releases</id>
+            <url>https://nexus.corp.digitalreasoning.com/nexus/content/repositories/releases/</url>
+        </repository>
+    </distributionManagement>
 </project>
