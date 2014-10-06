@@ -52,9 +52,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com:stormpath/stormpath-shiro.git</connection>
-        <developerConnection>scm:git:git@github.com:stormpath/stormpath-shiro.git</developerConnection>
-        <url>http://github.com/stormpath/stormpath-shiro</url>
+        <connection>scm:git:git@github.com:digitalreasoning/stormpath-shiro.git</connection>
+        <developerConnection>scm:git:git@github.com:digitalreasoning/stormpath-shiro.git</developerConnection>
+        <url>http://github.com/digitalreasoning/stormpath-shiro</url>
         <tag>HEAD</tag>
     </scm>
     <issueManagement>
